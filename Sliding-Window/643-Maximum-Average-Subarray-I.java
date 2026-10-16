@@ -1,3 +1,10 @@
+/*
+Platform: LeetCode
+Difficulty: Easy
+Time Complexity: O(n)
+Space Complexity: O(1)
+*/
+
 class Solution {
     public double findMaxAverage(int[] arr, int k) {
         int sum = 0;
