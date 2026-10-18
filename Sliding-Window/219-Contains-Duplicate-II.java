@@ -1,6 +1,6 @@
 /*
 Platform: LeetCode
-Difficulty: Medium
+Difficulty: Easy
 Time Complexity: O(n)
 Space Complexity: O(n)
 */
